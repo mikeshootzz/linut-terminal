@@ -1,0 +1,12 @@
+html{
+    text-align: center ;
+    background-color: black;
+    background-image: url(./img/cmatrix.png);
+    font-family: 'Ubuntu Mono', monospace;
+}
+h1{
+    font-size: 1cm;
+    background-color: #e6e200;
+    font-family: 'Ubuntu Mono', monospace;
+}
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital@1&display=swap');
